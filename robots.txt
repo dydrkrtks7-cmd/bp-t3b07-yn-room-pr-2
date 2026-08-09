@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hongdae-club-note.maphoshirts.space/sitemap.xml
+Sitemap: https://hongdae-club-note.maphoshirts.space/sitemap-pages.xml
